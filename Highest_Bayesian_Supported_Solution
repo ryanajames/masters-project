@@ -1,0 +1,45 @@
+# Most supported partition found by simple heuristic search
+Species 1 (support = 1.000)
+     MG264805-1_Lepechinella_grimi_voucher_DZMB-HH_52709
+
+Species 2 (support = 0.784)
+     RAJ011-LCO_HCO,RAJ014-LCO,RAJ016-LCO,RAJ007-LCO,RAJ009,RAJ006-LCO
+
+Species 3 (support = 0.877)
+     RAJ024,RAJ034,RAJ048_LCO,RAJ021
+
+Species 4 (support = 0.800)
+     MG264781-1_Lepechinella_victoriae_voucher_DZMB-HH_51966,MT048414-1_Lepechinella_victoriae_voucher_ZMH-K_56621
+
+Species 5 (support = 0.473)
+     MT048412-1_Lepechinella_arctica_voucher_ZMH-K_56636,MT048413-1_Lepechinella_arctica_voucher_ZMH-K_56631,MG264867-1_Lepechinella_arctica_voucher_DZMB-HH_56890,MG264830-1_Lepechinella_arctica_voucher_DZMB-HH_56893,MG264828-1_Lepechinellidae_sp_DZMB-HH_52517,MG264817-1_Lepechinella_arctica_voucher_DZMB-HH_56209,MG264812-1_Lepechinellidae_sp_DZMB-HH_52519,MG264803-1_Lepechinella_arctica_voucher_DZMB-HH_56892,MG264795-1_Lepechinellidae_DZMB-HH_52516,MG264759-1_Lepechinella_arctica_voucher_DZMB-HH_56722,MG264753-1_Lepechinellidae_DZMB-HH_52518,MG264747-1_Lepechinellidae_DZMB-HH_52514,MG264876-1_Lepechinellidae_sp_DZMB-HH_52525,MT048415-1_Lepechinella_arctica_voucher_ZMH-K_56632
+
+Species 6 (support = 1.000)
+     RAJ004-LCO_HCO
+
+Species 7 (support = 0.794)
+     RAJ022,RAJ002-LCO_HCO
+
+Species 8 (support = 1.000)
+     MG264793-1_Lepechinella_skarphedini_voucher_DZMB-HH_56894
+
+Species 9 (support = 0.915)
+     RAJ026,RAJ050,RAJ037_LCO
+
+Species 10 (support = 0.945)
+     RAJ017,RAJ031_LCO,RAJ035,RAJ038,RAJ010-LCO_HCO,RAJ039,RAJ045,RAJ020-LCO_HCO
+
+Species 11 (support = 1.000)
+     RAJ044
+
+Species 12 (support = 0.977)
+     RAJ036
+
+Species 13 (support = 0.977)
+     RAJ019-LCO_HCO
+
+Species 14 (support = 0.517)
+     MG264778-1_Lepechinelloides_karii_voucher_DZMB-HH_56165
+
+Species 15 (support = 0.517)
+     MG264794-1_Lepechinelloides_karii_voucher_DZMB-HH_56196

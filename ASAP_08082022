@@ -1,0 +1,20 @@
+Partition 1
+Score: 1
+Proba: 3.999960e-05
+ nb groups:14 (13)
+------------------------------------------------------------
+
+Group[ 1 ] n: 4 ;id: RAJ021 RAJ024 RAJ048_LCO RAJ034
+Group[ 2 ] n: 3 ;id: RAJ036 RAJ019-LCO_HCO RAJ044
+Group[ 3 ] n: 6 ;id: RAJ009 RAJ006-LCO RAJ007-LCO RAJ014-LCO RAJ016-LCO RAJ011-LCO_HCO
+Group[ 4 ] n: 8 ;id: RAJ017 RAJ038 RAJ035 RAJ039 RAJ045 RAJ020-LCO_HCO RAJ010-LCO_HCO RAJ031_LCO
+Group[ 5 ] n: 3 ;id: RAJ026 RAJ050 RAJ037_LCO
+Group[ 6 ] n: 2 ;id: RAJ022 RAJ002-LCO_HCO
+Group[ 7 ] n: 1 ;id: RAJ004-LCO_HCO
+Group[ 8 ] n: 1 ;id: MH825759_Orchomenella_cavimanus
+Group[ 9 ] n: 1 ;id: MH825782_Pseudorchomene_plebs
+Group[ 10 ] n: 14 ;id: MG264747-1_Lepechinellidae_DZMB-HH_52514 MG264753-1_Lepechinellidae_DZMB-HH_52518 MG264759-1_Lepechinella_arctica_voucher_DZMB-HH_56722 MG264795-1_Lepechinellidae_DZMB-HH_52516 MG264803-1_Lepechinella_arctica_voucher_DZMB-HH_56892 MG264812-1_Lepechinellidae_sp_DZMB-HH_52519 MG264817-1_Lepechinella_arctica_voucher_DZMB-HH_56209 MG264828-1_Lepechinellidae_sp_DZMB-HH_52517 MG264830-1_Lepechinella_arctica_voucher_DZMB-HH_56893 MG264867-1_Lepechinella_arctica_voucher_DZMB-HH_56890 MG264876-1_Lepechinellidae_sp_DZMB-HH_52525 MT048412-1_Lepechinella_arctica_voucher_ZMH-K_56636 MT048413-1_Lepechinella_arctica_voucher_ZMH-K_56631 MT048415-1_Lepechinella_arctica_voucher_ZMH-K_56632
+Group[ 11 ] n: 2 ;id: MG264778-1_Lepechinelloides_karii_voucher_DZMB-HH_56165 MG264794-1_Lepechinelloides_karii_voucher_DZMB-HH_56196
+Group[ 12 ] n: 2 ;id: MG264781-1_Lepechinella_victoriae_voucher_DZMB-HH_51966 MT048414-1_Lepechinella_victoriae_voucher_ZMH-K_56621
+Group[ 13 ] n: 1 ;id: MG264793-1_Lepechinella_skarphedini_voucher_DZMB-HH_56894
+Group[ 14 ] n: 1 ;id: MG264805-1_Lepechinella_grimi_voucher_DZMB-HH_52709 
